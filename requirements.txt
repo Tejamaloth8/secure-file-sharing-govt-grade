@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+sqlalchemy
+pydantic
+python-jose
+cryptography
+python-multipart
+
+passlib[bcrypt]==1.7.4
+bcrypt<4.1
+
